@@ -1,2 +1,3 @@
 .DS_Store
 teeth_dataset/*
+project/files/*.pth
